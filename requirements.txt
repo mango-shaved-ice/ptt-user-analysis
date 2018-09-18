@@ -1,0 +1,5 @@
+-r deps/ptt-web-crawler/requirements.txt
+
+# Server
+Django
+psycopg2
